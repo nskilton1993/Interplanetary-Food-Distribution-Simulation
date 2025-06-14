@@ -22,7 +22,7 @@ The system uses an enumeration of food types:
 ```ada
 type Food_Type is (Wheat, Corn, Rice, Potatoes, Squash, Tomato, Steak, Pork, Fish, Fowel);
 subtype GrainVegetable is Food_Type range Wheat .. Tomato;
-
+```ada
 
 Program runs from command promt, best to save the output.
 Download the file
