@@ -1,0 +1,269 @@
+What size of the list?  
+How many Product Generators?  
+How many points of sale?  
+
+B delivered. 
+
+GateKeeper insert accepted RICE B
+Next grain shipment arrives  9.14843E-02 Time units!
+
+B delivered. B
+
+ delivered. 
+
+B delivered. 
+
+GateKeeper insert accepted RICE B
+Next grain shipment arrives  4.34619E-01 Time units!
+
+GateKeeper insert accepted SQUASH B
+Next grain shipment arrives  1.21749E-01 Time units!
+
+B delivered. 
+
+B delivered. 
+
+GateKeeper insert accepted TOMATO B
+Next grain shipment arrives  1.64006E+00 Time units!
+
+GateKeeper insert accepted SQUASH B
+Next grain shipment arrives  1.22679E+00 Time units!
+
+M delivered. 
+
+GateKeeper insert accepted CORN B
+Next grain shipment arrives  1.57520E+00 Time units!
+
+B delivered. 
+
+GateKeeper insert accepted FOWEL M
+Next grain shipment arrives  2.27514E+00 Time units!
+
+GateKeeper insert accepted TOMATO B
+Next grain shipment arrives  1.02896E+00 Time units!
+
+M delivered. 
+
+GateKeeper insert accepted FISH M
+Next grain shipment arrives  2.00817E-01 Time units!
+
+B delivered. 
+
+B delivered. 
+
+B delivered. 
+
+GateKeeper insert accepted POTATOES B
+Next grain shipment arrives  3.06212E+00 Time units!
+
+GateKeeper insert accepted TOMATO B
+Next grain shipment arrives  6.55132E+00 Time units!
+
+GateKeeper insert accepted TOMATO B
+Next grain shipment arrives  7.17555E+00 Time units!
+
+Mgt Desired Food Type To Sell is: Type food is: STEAK
+
+
+Sorry, no food packets of the STEAK are currently available.
+
+Actual type sold is: FOWEL
+Food pack removed by GateKeeper for shipment.
+
+Retail Sales successfuly sold FOWEL M
+B delivered. 
+
+GateKeeper insert accepted WHEAT B
+Next grain shipment arrives  2.07654E+00 Time units!
+
+Mgt Desired Food Type To Sell is: Type food is: FOWEL
+Actual type sold is: FOWEL
+Food pack removed by GateKeeper for shipment.
+
+Mgt Desired Food Type To Sell is: Type food is: FOWEL
+
+
+Sorry, no food packets of the FOWEL are currently available.
+
+Actual type sold is: FISH
+Food pack removed by GateKeeper for shipment.
+
+Retail Sales successfuly sold FISHRetail Sales successfuly sold FOWEL M
+ M
+B delivered. 
+
+GateKeeper insert accepted WHEAT B
+Next grain shipment arrives  1.06671E+00 Time units!
+
+B delivered. 
+
+GateKeeper insert accepted SQUASH B
+Next grain shipment arrives  1.25255E+00 Time units!
+
+M delivered. 
+
+GateKeeper insert accepted PORK M
+Next grain shipment arrives  2.62977E+00 Time units!
+
+M delivered. 
+
+GateKeeper insert accepted STEAK M
+Next grain shipment arrives  4.29309E+00 Time units!
+
+M delivered. 
+
+GateKeeper insert accepted FOWEL M
+Next grain shipment arrives  1.03034E+00 Time units!
+
+M delivered. 
+
+GateKeeper insert accepted FOWEL M
+Next grain shipment arrives  3.51390E+00 Time units!
+
+B delivered. 
+
+GateKeeper insert accepted POTATOES B
+Next grain shipment arrives  2.12869E-01 Time units!
+
+M delivered. 
+
+GateKeeper insert accepted FOWEL M
+Next grain shipment arrives  1.42968E+00 Time units!
+
+M delivered. 
+
+GateKeeper insert accepted STEAK M
+Next grain shipment arrives  1.97321E-01 Time units!
+
+M delivered. 
+
+M delivered. 
+
+B delivered. 
+
+GateKeeper insert accepted STEAK M
+Next grain shipment arrives  3.23951E+00 Time units!
+
+GateKeeper insert accepted STEAK M
+Next grain shipment arrives  1.75448E-01 Time units!
+
+B delivered. 
+
+GateKeeper insert accepted POTATOES B
+Next grain shipment arrives  2.04722E+00 Time units!
+
+GateKeeper insert accepted WHEAT B
+Next grain shipment arrives  1.90179E+00 Time units!
+
+B delivered. 
+
+ Rejected by GateKeeper: 
+CORN B
+ Rejected =           1. Sent to another distribution facility!
+
+
+Next grain shipment arrives  1.35851E+00 Time units!
+
+B delivered. 
+
+ Rejected by GateKeeper: 
+RICE B
+ Rejected =           2. Sent to another distribution facility!
+
+
+Next grain shipment arrives  1.62639E+00 Time units!
+
+M delivered. 
+
+M delivered. 
+
+ Rejected by GateKeeper: 
+FOWEL M
+ Rejected =           3. Sent to another distribution facility!
+
+
+Next grain shipment arrives  3.50942E+00 Time units!
+
+M delivered. 
+
+ Rejected by GateKeeper: 
+FOWEL M
+ Rejected =           4. Sent to another distribution facility!
+
+
+Next grain shipment arrives  6.13403E-01 Time units!
+
+M delivered. 
+
+ Rejected by GateKeeper: 
+FISH M
+ Rejected =           5. Sent to another distribution facility!
+
+
+Next grain shipment arrives  2.33375E-02 Time units!
+
+B delivered. 
+
+
+
+Hours of operation prior to closing:  37.660519200
+
+
+Meat Sold is:           3
+Veg sold is:           0
+Total sold is:           3
+
+
+(AFOODTYPE => WHEAT,
+ AFOODSHIPMENT => 'B')
+(AFOODTYPE => WHEAT,
+ AFOODSHIPMENT => 'B')
+(AFOODTYPE => WHEAT,
+ AFOODSHIPMENT => 'B')
+(AFOODTYPE => CORN,
+ AFOODSHIPMENT => 'B')
+(AFOODTYPE => RICE,
+ AFOODSHIPMENT => 'B')
+(AFOODTYPE => RICE,
+ AFOODSHIPMENT => 'B')
+(AFOODTYPE => POTATOES,
+ AFOODSHIPMENT => 'B')
+(AFOODTYPE => POTATOES,
+ AFOODSHIPMENT => 'B')
+(AFOODTYPE => POTATOES,
+ AFOODSHIPMENT => 'B')
+(AFOODTYPE => SQUASH,
+ AFOODSHIPMENT => 'B')
+(AFOODTYPE => SQUASH,
+ AFOODSHIPMENT => 'B')
+(AFOODTYPE => SQUASH,
+ AFOODSHIPMENT => 'B')
+(AFOODTYPE => TOMATO,
+ AFOODSHIPMENT => 'B')
+(AFOODTYPE => TOMATO,
+ AFOODSHIPMENT => 'B')
+(AFOODTYPE => TOMATO,
+ AFOODSHIPMENT => 'B')
+(AFOODTYPE => TOMATO,
+ AFOODSHIPMENT => 'B')
+(AFOODTYPE => STEAK,
+ AFOODSHIPMENT => 'M')
+(AFOODTYPE => STEAK,
+ AFOODSHIPMENT => 'M')
+(AFOODTYPE => STEAK,
+ AFOODSHIPMENT => 'M')
+(AFOODTYPE => STEAK,
+ AFOODSHIPMENT => 'M')
+(AFOODTYPE => PORK,
+ AFOODSHIPMENT => 'M')
+(AFOODTYPE => FOWEL,
+ AFOODSHIPMENT => 'M')
+(AFOODTYPE => FOWEL,
+ AFOODSHIPMENT => 'M')
+(AFOODTYPE => FOWEL,
+ AFOODSHIPMENT => 'M')
+
+
+
+B delivered. 
+
