@@ -7,8 +7,8 @@ Program runs from command promt, best to save the output.
 Download the file
 copy the lines below in command promt
 
-cd downloads
-productdistributionmain.exe >> output.txt
+- cd downloads
+- productdistributionmain.exe >> output.txt
 
 program will run for ~40 sec.
 
