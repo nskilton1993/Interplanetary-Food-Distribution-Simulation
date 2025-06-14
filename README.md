@@ -2,6 +2,16 @@
 
 This is a multitasked Ada simulation designed to model an interplanetary food distribution system. It features dynamically defined food generators, multiple points of sale (POS), and a centralized warehouse (GateKeeper) that stores food packets in a **sorted linear list** using custom-built data structures. The simulation includes **binary search, dynamic insertion/deletion, and real-time task scheduling**, offering a rich demonstration of data structures in a concurrent setting.
 
+## Running the program
+Program runs from command promt, best to save the output.
+Download the file
+copy the lines below in command promt
+
+cd downloads
+productdistributionmain.exe >> output.txt
+
+program will run for ~40 sec.
+
 ---
 
 ## 🎯 Objective
@@ -22,13 +32,3 @@ The system uses an enumeration of food types:
 ```ada
 type Food_Type is (Wheat, Corn, Rice, Potatoes, Squash, Tomato, Steak, Pork, Fish, Fowel);
 subtype GrainVegetable is Food_Type range Wheat .. Tomato;
-```ada
-
-Program runs from command promt, best to save the output.
-Download the file
-copy the lines below in command promt
-
-cd downloads
-productdistributionmain.exe >> output.txt
-
-program will run for ~40 sec.
